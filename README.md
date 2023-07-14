@@ -1,4 +1,4 @@
-# 05 Operació matemàtica bàsica.
+# 05 Operació matemàtica bàsica
 
 Fes un programa que calculi el resultat de l'operació de la imatge:
 ![Operació](05_operacio.png)
