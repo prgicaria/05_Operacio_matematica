@@ -2,4 +2,4 @@
 
 Fes un programa que calculi el resultat de l'operació de la imatge: $\left( \frac{3+2}{2·5}\right)^2$
 
-El nom del programa ha de ser "05_operacio.py"
+- El nom del programa ha de ser **05_operacio.py**
